@@ -61,12 +61,15 @@
     letter-spacing: 0.04em;
     cursor: pointer;
 }
+
 .order-button:hover {
     background: #404bbf;
 }
+
 ul {
     list-style-type: none;
 }
+
 .our-qualifacation {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -93,6 +96,7 @@ ul {
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .our-team {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -102,6 +106,7 @@ ul {
     text-align: center;
     color: #2e2f42;
 }
+
 .our-portfolio {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -111,9 +116,11 @@ ul {
     text-align: center;
     color: #2e2f42;
 }
+
 .footer-menu {
     background: #2e2f42;
 }
+
 .footer-logo-studio {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -123,6 +130,7 @@ ul {
     text-transform: uppercase;
     color: #f4f4fd;
 }
+
 .p-footer {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -131,16 +139,19 @@ ul {
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+
 .link-studio:hover {
     color: #404bbf;
 }
+
 .link-studio:active {
     color: #404bbf;
 }
+
 .link:hover {
     color: #404bbf;
 }
+
 .contact-link:hover {
     color: #404bbf;
 }
-
